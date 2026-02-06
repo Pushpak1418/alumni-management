@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar1",
+      "description": "Professional headshot of a woman",
+      "imageUrl": "https://images.unsplash.com/photo-1557053910-d9eadeed1c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc1ODY0MDczOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "avatar2",
+      "description": "Professional headshot of a man",
+      "imageUrl": "https://images.unsplash.com/photo-1522556189639-b150ed9c4330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg3MDg5NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "avatar3",
+      "description": "Professional headshot of a person",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzU4NjkxNjE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar4",
+      "description": "Professional headshot of a woman smiling",
+      "imageUrl": "https://images.unsplash.com/photo-1719087358997-12957d0859e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzU4NjU1Mzc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "avatar5",
+      "description": "Professional headshot of a man in a suit",
+      "imageUrl": "https://images.unsplash.com/photo-1620064881980-1023851173f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYW4lMjBzdWl0fGVufDB8fHx8MTc1ODY4ODMzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man suit"
+    },
+    {
+      "id": "avatar6",
+      "description": "Professional headshot of a person with glasses",
+      "imageUrl": "https://images.unsplash.com/photo-1634794251656-9f286d822b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBnbGFzc2VzfGVufDB8fHx8MTc1ODY4MDczNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person glasses"
+    },
+    {
+      "id": "avatar7",
+      "description": "Alumni group photo",
+      "imageUrl": "https://images.unsplash.com/photo-1757143137467-0f5fbcbf1378?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhbHVtbmklMjBldmVudHxlbnwwfHx8fDE3NTg3MzExODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "alumni event"
+    },
+    {
+      "id": "avatar8",
+      "description": "Campus building",
+      "imageUrl": "https://images.unsplash.com/photo-1532649538693-f3a2ec1bf8bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb2xsZWdlJTIwY2FtcHVzfGVufDB8fHx8MTc1ODY4OTM3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "college campus"
+    },
+    {
+      "id": "avatar9",
+      "description": "Students in a lab",
+      "imageUrl": "https://images.unsplash.com/photo-1758685734034-54e1da4ac7c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdHVkZW50cyUyMHNjaWVuY2V8ZW58MHx8fHwxNzU4NzE2MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "students science"
+    }
+  ]
+}
